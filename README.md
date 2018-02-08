@@ -6,15 +6,14 @@
 ###运行：
 
 ```
-cd serverDemo/todolist
-npm install
 npm start
 
 ```
 
 ###说明：
 
-由于采用前后端分离，所以是两个程序。方便起见放到一个库下。
+
+由于采用前后端分离，所以是两个程序。方便起见，把两个项目整体打包放到一个库下。
 
 serverDemo是后端node服务程序，todolist是前端react项目。
 
